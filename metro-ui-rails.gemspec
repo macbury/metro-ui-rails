@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'metro/ui/rails/version'
 
 Gem::Specification.new do |gem|
-  gem.name          = "metro-ui-rails"
+  gem.name          = "macbury-metro-ui-rails"
   gem.version       = Metro::Ui::Rails::VERSION
   gem.authors       = ["Vilius Luneckas"]
   gem.email         = ["vilius.luneckas@gmail.com"]
